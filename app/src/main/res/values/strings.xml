@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tubbr coding</string>
+    <string name="API_KEY">2b1fdd94ce7b4b39ba21b0f07b5f9d1a</string>
+
+    <string name="text_empty_password_invalid">Empty Password</string>
+    <string name="text_empty_email_invalid">Empty Email</string>
+
+    <string name="text_empty_first_name_invalid">Empty First Name</string>
+    <string name="text_empty_last_name_invalid">Empty Last Name</string>
+    <string name="text_empty_mobile_invalid">Empty mobile number</string>
+    <string name="text_empty_newPass_invalid">Empty New Password</string>
+    <string name="text_empty_confirmPass_invalid">Empty Confirm Password</string>
+    <string name="error_empty_email">Please Enter email</string>
+    <string name="error_empty_password">Please Enter Password</string>
+    <string name="error_empty_first_name">Please Enter First Name</string>
+    <string name="error_empty_last_name">Please Enter Last Name</string>
+    <string name="error_empty_mobile">Please Enter Mobile Number</string>
+    <string name="error_empty_newPass">Please Enter New Password</string>
+    <string name="error_empty_confirmPass">Please Enter Confirm Password</string>
+
+    <string name="text_empty_fullname_invalid">Empty Name</string>
+    <string name="text_empty_message_invalid">Empty Message</string>
+    <string name="error_empty_message">Please Enter Message</string>
+    <string name="error_empty_full_name">Please Enter Full Name</string>
+</resources>
